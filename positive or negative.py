@@ -1,7 +1,7 @@
-x =int(input("Enter the number: "))
+x =int(input())
 if(x<0):
-   print ("negative")
+   print ("Negative")
 elif(x==0):
-   print ("zero")
+   print ("Zero")
 else:
-   print ("positive")
+   print ("Positive")
